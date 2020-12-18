@@ -1,16 +1,7 @@
 import * as firebase from 'firebase';
 import { Usuario } from './classes';
 
-const config = {
-  apiKey: "AIzaSyASU-qGj6DUAX05VtFb1SU81QEsQNWLh00",
-  authDomain: "fisioterapia-adbe8.firebaseapp.com",
-  databaseURL: "https://fisioterapia-adbe8.firebaseio.com",
-  projectId: "fisioterapia-adbe8",
-  storageBucket: "fisioterapia-adbe8.appspot.com",
-  messagingSenderId: "594796409168",
-  appId: "1:594796409168:web:154341e6dc67646b47fc55",
-  measurementId: "G-0W7QTQ7QY2"
-};
+const config = // FIREBASE CONFIG HERE
 
 firebase.initializeApp(config);
 firebase.analytics();
