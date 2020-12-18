@@ -4,6 +4,8 @@ This is the old App created for a Physiotherapy's Clinic to save info about the 
 
 Developed for the Software Laboratory discipline at UCS in 2020-02
 
+I'm currently working on the new app using Google Flutter.
+
 # Tecnologies
 
 <img align="left" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
